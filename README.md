@@ -10,9 +10,7 @@
 
 
 ## Lecture0 Function,Variables
-
 [Problem Sets:](https://cs50.harvard.edu/python/2022/psets/0/)Link kendi sayfasına yönlendiriyor.
-
 - [x]  [Indoor Voice]
 - [x]  Playback Speed
 - [x]  Making Faces
@@ -20,16 +18,22 @@
 - [x]  Tip Calculator
 
 ## Lecture1 Conditionals
-
 [Problem Sets:](https://cs50.harvard.edu/python/2022/psets/1/) Link kendi sayfasına yönlendiriyor.
+- [x]  Deep Thought
+- [x]  Home Federal Savings Bank
+- [x]  File Extensions
+- [x]  Math Interpreter
+- [x]  Meal Time
 
-- [ ]  Deep Thought
-- [ ]  Home Federal Savings Bank
-- [ ]  File Extensions
-- [ ]  Math Interpreter
-- [ ]  Meal Time
+## Lecture2 Loops
+[Problem Sets:](https://cs50.harvard.edu/python/2022/psets/2/) Link kendi sayfasına yönlendiriyor.
 
-### Lecture2 Loops
+- [ ]  camelCase
+- [ ]  Coke Machine
+- [ ]  just setting up my twttr
+- [ ]  Vanity Plates
+- [ ]  Nutrition FActs
+
 
 ### Lecture3 Exceptions
 
