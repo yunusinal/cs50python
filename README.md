@@ -6,6 +6,8 @@
 
 [**Bu linkten**](https://cs50.harvard.edu/python/2022/) siz de ücretsiz olan bu kursa gidebilirsiniz. Tüm kursu tamamladığınızda da ücretsiz olarak sertifikanızı talep edebiliyorsunuz.
 
+## Şu anda LECTURE 3 teyim. 
+
 
 
 
